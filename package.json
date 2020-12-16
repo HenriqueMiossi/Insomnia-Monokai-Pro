@@ -1,0 +1,29 @@
+{
+  "name": "insomnia-plugin-theme-monokai-pro",
+  "version": "1.0.0",
+  "author": {
+      "name": "Henrique Miossi",
+      "email": "henriquemiossi@gmail.com"
+  },
+  "description": "Unofficial Monokai Pro theme for Insomnia",
+  "homepage": "https://github.com/HenriqueMiossi/Insomnia-Monokai-Pro",
+  "license": "MIT",
+  "main": "index.js",
+  "insomnia": {
+      "name": "monokai-pro-theme",
+      "description": "Unofficial Monokai Pro theme for Insomnia"
+  },
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/HenriqueMiossi/Insomnia-Monokai-Pro.git"
+  },
+  "bugs": {
+      "url": "https://github.com/HenriqueMiossi/Insomnia-Monokai-Pro/issues"
+  },
+  "keywords": [
+      "monokai",
+      "theme",
+      "insomnia",
+      "insomnia-plugin"
+  ]
+}
