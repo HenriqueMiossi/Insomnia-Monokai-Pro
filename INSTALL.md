@@ -2,7 +2,26 @@
 
 ### Install
 
-- In Insomnia, got to _Application_ and _Preferences_, click in _Plugins_, at least paste `insomnia-plugin-theme-monokai-pro` and click on _Install Plugin_
+- I pretend to publish the npm package to make the installation easier, but for now, that's all I got to offer
+
+- Copy the theme folder to the respective folder
+
+* MacOS:
+```
+~/Library/Application\ Support/Insomnia/plugins/
+```
+* Windows: 
+```
+%APPDATA%\Insomnia\plugins\
+```
+* Linux:
+```
+$XDG_CONFIG_HOME/Insomnia/plugins/
+```
+or 
+```
+~/.config/Insomnia/plugins/
+```
 
 ### Activating theme
 
