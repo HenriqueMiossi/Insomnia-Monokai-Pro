@@ -4,7 +4,7 @@
 
 - I pretend to publish the npm package to make the installation easier, but for now, that's all I got to offer
 
-- Copy the theme folder to the respective folder
+- Download or clone the repo and copy the theme folder to the respective folder
 
 * MacOS:
 ```
